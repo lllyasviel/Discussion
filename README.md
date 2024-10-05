@@ -1,1 +1,1 @@
-# Discussion
+This GitHub repo is for posting some discussion for some HuggingFace Spaces because HuggingFace Spaces' discussion page does not work very well with very long post with complicated elements like "click to see detail" things and some advanced markdown formatting tricks.
